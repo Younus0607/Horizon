@@ -1,3 +1,3 @@
-# Horizon
+.# Horizon
 Creating a repository 
 .
